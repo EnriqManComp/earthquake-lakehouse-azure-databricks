@@ -1,5 +1,3 @@
-# earthquake-lakehouse-azure-databricks
-
 # Earthquake Lakehouse on Azure & Databricks
 
 ## Problem Statement
