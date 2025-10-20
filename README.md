@@ -12,6 +12,8 @@ This repository implements an end-to-end Medallion Lakehouse architecture on **A
 * **Silver**: Data cleaning, normalization, and schema enforcement
 * **Gold**: Aggregated, analytics-ready data for reporting or downstream applications
 
+![pipeline graph.png](https://github.com/EnriqManComp/earthquake-lakehouse-azure-databricks/blob/master/pipeline%20graph.png)
+
 Data is stored in an optimized **Delta Lake / Parquet format**, enabling ACID transactions, time travel, and efficient querying.
 
 ## Technologies Used
